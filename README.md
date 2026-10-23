@@ -145,17 +145,16 @@
 
 ## 10. Структура проекта
 
-```text
-project/
-├── frontend/
-├── backend/
-├── database/
-│   └── schema.sql
-├── docs/
-│   ├── database.md
-│   ├── architecture.md
-│   ├── er-diagram.png
-│   └── images/
+```text project/
+├── frontend/                 # HTML
+├── backend/                  # Исходный код
+├── database/                 # БД
+│   └── schema.sql            # SQL-скрипты
+├── docs/                     # Документация
+│   ├── database.md           # Описание БД
+│   ├── architecture.md       # Описание архитектуры
+│   ├── er-diagram.png        # Схема БД
+│   └── images/               # Скриншоты
 │       └── main-page.png
 ├── README.md
 └── .gitignore
