@@ -1,5 +1,5 @@
 
-##Debugging:Карьера 
+# Debugging:Карьера 
 
 ![Обложка игры](docs/images/cover.png)
 
