@@ -1,5 +1,6 @@
 
 #Debugging:Карьера 
+
 ![Обложка игры](docs/images/cover.png)
 
 **Жанр:** [Novel]  
